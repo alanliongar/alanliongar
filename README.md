@@ -1,7 +1,6 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanliongar&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanliongar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Alanliongar's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanliongar&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
