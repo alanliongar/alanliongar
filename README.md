@@ -46,6 +46,14 @@
 <img align="center" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" />
 </a>
 
+<h2>Nowadays I'm learning/Studying</h2>
+<a href="">
+<img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="35" />
+</a>
+<a href="">
+<img align="center" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" />
+</a>
+
 <br><br>
 <h2>Coding tools Im familiar with</h2>
 <a href="">
