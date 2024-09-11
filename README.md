@@ -143,3 +143,6 @@ Today I'm an android development student
 <a href="https://t.me/+5511975806385">
 <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
 </a>
+<br><br>
+<h2>An interesting fact</h2>
+Almost all the badge items are clickable on this page hahaha
