@@ -9,6 +9,12 @@
 <br><br><br>
 <h2>Programming languages/technologies that I have any/some experience with</h2>
 <a href="">
+<img align="center" src="https://github.com/user-attachments/assets/b1d590c6-748c-423e-95a8-9ccdd27b9d35" height="35" />
+</a>
+<a href="">
+<img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="35" />
+</a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="35" />
 </a>
 <a href="">
@@ -27,9 +33,7 @@
 <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="35" />
 </a>
 <a href="">
-<img align="center" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" />
-</a>
-<a href="">
+
 <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" />
 </a>
 <a href="">
@@ -39,11 +43,10 @@
 <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="35" />
 </a>
 <a href="">
-<img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="35" />
+<img align="center" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" />
 </a>
-<a href="">
-<img align="center" src="https://github.com/user-attachments/assets/b1d590c6-748c-423e-95a8-9ccdd27b9d35" height="35" />
-</a>
+
+
 
 <br><br>
 <h2>Coding tools Im familiar with</h2>
@@ -63,14 +66,15 @@
 <img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="35" />
 </a>
 <a href="">
+<img align="center" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=White" height="35" />
+</a>
+<a href="">
 <img align="center" src="https://github.com/user-attachments/assets/44b5ecd9-13e8-4227-9a81-f32f54d62cd7" height="35" />
 </a>
 <a href="">
 <img align="center" src="https://github.com/user-attachments/assets/18eb6579-e607-452d-9658-9346b71a8146" height="35" />
 </a>
-<a href="">
-<img align="center" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=White" height="35" />
-</a>
+
 
 <br><br>
 <h2>Operational sistem that I (somehow) know how to work with</h2>
