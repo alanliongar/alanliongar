@@ -155,27 +155,51 @@ Today I'm an android development student
 
 <br><br>
 <h2>Contact</h2>
-<a href="https://discord.com/users/gar233/">
-<img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-</a>
-<a href="https://www.facebook.com/alanlion.gar.3/">
-<img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="35" />
-</a>
-<a href="mailto:alan.lucindo.gomes@alumni.usp.br">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-</a>
-<a href="https://www.linkedin.com/in/alan-gomes-a847602b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3B9OsWB7vFTPSSB5lyKOZP4A%3D%3D">
-<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=5511975806385">
-<img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
-</a>
-<a href="https://www.instagram.com/alanliongarr/">
-<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-</a>
-<a href="https://t.me/+5511975806385">
-<img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://discord.com/users/gar233/">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/alanlion.gar.3/">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:alan.lucindo.gomes@alumni.usp.br">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/alan-gomes-a847602b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3B9OsWB7vFTPSSB5lyKOZP4A%3D%3D">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://api.whatsapp.com/send?phone=5511975806385">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/alanliongarr/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://t.me/+5511975806385">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 <br><br>
 <h2>An interesting fact</h2>
 Almost all the badge items are clickable on this page hahaha
