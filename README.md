@@ -112,7 +112,7 @@
 
 <br><br>
 <h2>Contact</h2>
-<a href="[gar233](https://discord.com/users/gar233)">
+<a href="https://discord.com/users/gar233/">
 <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" />
 </a>
 <a href="https://www.facebook.com/alanlion.gar.3/">
