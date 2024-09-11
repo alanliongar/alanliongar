@@ -107,7 +107,7 @@ Today I'm an android development student
 <img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="35" />
 </a>
 <a href="https://gemini.google.com/">
-<img align="center" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=White" height="35" />
+<img align="center" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=White" height="35" width="140" />
 </a>
 <a href="https://www.perplexity.ai/">
 <img align="center" src="https://github.com/user-attachments/assets/44b5ecd9-13e8-4227-9a81-f32f54d62cd7" height="35" />
