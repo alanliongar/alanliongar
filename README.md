@@ -1,4 +1,7 @@
 ## Hi there, I'm Alan 👋<br>
+
+Today I'm an android development student
+
 <h1>Some stats </h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanliongar&layout=compact" height="200" />
