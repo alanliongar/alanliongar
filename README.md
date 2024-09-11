@@ -11,42 +11,75 @@ Today I'm an android development student
 </a>
 <br><br><br>
 <h2>Programming languages/technologies that I have any/some experience with</h2>
-<a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications">
-<img align="center" src="https://github.com/user-attachments/assets/b1d590c6-748c-423e-95a8-9ccdd27b9d35" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Microsoft_Excel">
-<img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/C++">
-  <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/HTML">
-  <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=White" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/CSS"
-  ><img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-<img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/JavaScript">
-<img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-<img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/SQLite">
-<img align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
-<img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="35" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
-<img align="center" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications">
+        <img src="https://github.com/user-attachments/assets/b1d590c6-748c-423e-95a8-9ccdd27b9d35" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/Microsoft_Excel">
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/C++">
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/HTML">
+        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=White" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/CSS">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/JavaScript">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="35" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/SQLite">
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
+        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br><br>
 <h2>Nowadays I'm learning/Studying</h2>
 <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
