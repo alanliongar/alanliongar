@@ -92,13 +92,13 @@ Today I'm an android development student
 <br><br>
 <h2>Coding tools Im familiar with</h2>
 <a href="https://en.wikipedia.org/wiki/Android_Studio">
-<img align="center" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" height="35" />
+<img align="center" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" height="35" width="180" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Code::Blocks">
-<img align="center" src="https://github.com/user-attachments/assets/d7313599-ad75-4cc0-8fb7-fc4a03106762" height="35" />
+<img align="center" src="https://github.com/user-attachments/assets/d7313599-ad75-4cc0-8fb7-fc4a03106762" height="35" width="130" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Sublime_Text">
-<img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" height="35" />
+<img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" height="35" width="180" />
 </a>
 
 <br><br>
