@@ -153,7 +153,7 @@ Today I'm an android development student
 
 [![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCqTw0LLfB3XV7x7b8ciU6og)](https://www.youtube.com/channel/UCqTw0LLfB3XV7x7b8ciU6og)
 
-<br><br>
+<br>
 <h2>Contact</h2>
 <table>
   <tr>
@@ -199,7 +199,6 @@ Today I'm an android development student
     <td></td>
     <td></td>
   </tr>
-</table>
-<br><br>
+</table><br>
 <h2>An interesting fact</h2>
 Almost all the badge items are clickable on this page hahaha
