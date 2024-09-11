@@ -46,8 +46,6 @@
 <img align="center" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" />
 </a>
 
-
-
 <br><br>
 <h2>Coding tools Im familiar with</h2>
 <a href="">
@@ -108,7 +106,7 @@
   <img align="center" src="https://github.com/user-attachments/assets/2b88bbe5-d7bd-43ae-b739-55f8c6b7add7" height="35" />
 </a>
 <br><br>
-
+<h2>Some youtube stats</h2>
 [![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCqTw0LLfB3XV7x7b8ciU6og)](https://www.youtube.com/channel/UCqTw0LLfB3XV7x7b8ciU6og)
 
 <br><br>
