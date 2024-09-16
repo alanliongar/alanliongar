@@ -134,19 +134,19 @@ Today I'm an android development student
 <br><br>
 <h2>Formal Education</h2>
 <a href="https://www5.usp.br/#english">
-  <img align="center" src="https://github.com/user-attachments/assets/5356dd8d-9adc-4950-9c64-e0e435d363ba" height="35" style="margin-right: 15px;" /> 
+  <img align="center" src="https://github.com/user-attachments/assets/5356dd8d-9adc-4950-9c64-e0e435d363ba" height="35"/> 
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.ime.usp.br/en/institute/">
-  <img align="center" src="https://github.com/user-attachments/assets/5843c109-1578-4695-8a03-290a0ca1a1b1" height="35" style="margin-right: 15px;" />
+  <img align="center" src="https://github.com/user-attachments/assets/5843c109-1578-4695-8a03-290a0ca1a1b1" height="35"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.fea.usp.br/en">
-  <img align="center" src="https://github.com/user-attachments/assets/2f096702-db08-4390-8b77-32fc328a3639" height="35" style="margin-right: 15px;" />
+  <img align="center" src="https://github.com/user-attachments/assets/2f096702-db08-4390-8b77-32fc328a3639" height="35"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://comunidadedevspace.com">
-  <img align="center" src="https://github.com/user-attachments/assets/2b88bbe5-d7bd-43ae-b739-55f8c6b7add7" height="35" />
+  <img align="center" src="https://github.com/user-attachments/assets/a03d4d29-994a-492c-9605-fb4c3dbe2986" height="35"/>
 </a>
 <br><br>
 <h2>Some youtube stats</h2>
