@@ -34,6 +34,7 @@ jobs:
       # Deploy to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
+          github_user_name: alanliongar
           target_branch: output
           build_dir: dist
         env:
