@@ -7,7 +7,7 @@ Today I'm an android development student
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanliongar&layout=compact" height="200" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanliongar&theme=shadow_green&include_all_commits=true" height="200"  />
+  ![snake animation](https://github.com/alanliongar/alanliongar/blob/output/github-contribution-grid-snake2.svg)
 </a>
 <a href="https://github.com/marketplace/actions/snake-game-generator-from-github-contributions">
   <img align="center" src="https://github.com/alanliongar/alanliongar/blob/output/github-contribution-grid-snake2.svg" height="200" />
