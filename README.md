@@ -12,7 +12,7 @@ Today I'm an android development student
 </a>
 
 <a href="https://github.com/marketplace/actions/snake-game-generator-from-github-contributions">
-  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/output/github-contribution-grid-snake2.svg" height="200" />
+  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/output/github-contribution-grid-snake2.svg" height="200" width="600" />
 </a>
 
 <br><br><br>
