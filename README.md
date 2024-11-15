@@ -6,10 +6,15 @@ Today I'm an android development student
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanliongar&layout=compact" height="200" />
 </a>
-![snake animation](https://github.com/alanliongar/alanliongar/blob/output/github-contribution-grid-snake2.svg)
+
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanliongar&theme=shadow_green&include_all_commits=true" height="200"  />
+</a>
+
 <a href="https://github.com/marketplace/actions/snake-game-generator-from-github-contributions">
   <img align="center" src="https://github.com/alanliongar/alanliongar/blob/output/github-contribution-grid-snake2.svg" height="200" />
 </a>
+
 <br><br><br>
 <h2>Programming languages/technologies that I have any/some experience with</h2>
 <table>
