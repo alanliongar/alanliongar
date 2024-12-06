@@ -155,7 +155,7 @@ Today I consider myself an android developer
   <img align="center" src="https://github.com/user-attachments/assets/a03d4d29-994a-492c-9605-fb4c3dbe2986" height="35"/>
 </a>
 <br><br>
-<h2>Some youtube stats</h2>
+<h2>Some youtube stats - just for fun</h2>
 
 [![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCqTw0LLfB3XV7x7b8ciU6og)](https://www.youtube.com/channel/UCqTw0LLfB3XV7x7b8ciU6og)
 
