@@ -1,6 +1,6 @@
-## Hi there, I'm Alan 👋<br>
+## Welcome! I'm Alan 👋<br>
 
-Today I'm an android development student
+Today I consider myself an android developer
 
 <h1>Some stats </h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
