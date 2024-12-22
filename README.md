@@ -10,18 +10,40 @@ Today I consider myself an android developer
  - UI/UX: Focused on modern design principles using Material Design, ConstraintLayout, and Jetpack Compose.
  - Version Control: Git and GitHub for collaborative development and code versioning.
 
-<h1>Some stats </h1>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanliongar&layout=compact" height="200" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanliongar&theme=shadow_green&include_all_commits=true" height="200"  />
-</a>
-
-<a href="https://github.com/marketplace/actions/snake-game-generator-from-github-contributions">
-  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/output/github-snake.svg" height="200" width="850" />
-</a>
+<h2>📱 Projects</h2>
+<a href="https://github.com/alanliongar/BMI_Calculator">
+  <img src="https://img.shields.io/badge/-BMI%20Calculator-blueviolet?style=for-the-badge" height="35"/>
+</a><br>
+<a href="https://github.com/alanliongar/Fuel_Calculator">
+  <img src="https://img.shields.io/badge/-Fuel%20Calculator-green?style=for-the-badge" height="35"/>
+</a><br>
+<a href="https://github.com/alanliongar/Tip_Calculator">
+  <img src="https://img.shields.io/badge/-Tip%20Calculator-yellow?style=for-the-badge" height="35"/>
+</a><br>
+<a href="https://github.com/alanliongar/Calculator">
+  <img src="https://img.shields.io/badge/-Simple%20Calculator-orange?style=for-the-badge" height="35"/>
+</a><br>
+<a href="https://github.com/alanliongar/Recyclerview">
+  <img src="https://img.shields.io/badge/-Recyclerview-blue?style=for-the-badge" height="35"/>
+</a><br>
+<a href="https://github.com/alanliongar/ArtistList">
+  <img src="https://img.shields.io/badge/-ArtistList-yellow?style=for-the-badge" height="35"/>
+</a><br>
+<a href="https://github.com/alanliongar/TaskBeat">
+  <img src="https://img.shields.io/badge/-TaskBeat-red?style=for-the-badge" height="35"/>
+</a><br>
+<a href="https://github.com/alanliongar/FinTrack">
+  <img src="https://img.shields.io/badge/-FinTrack-green?style=for-the-badge" height="35"/>
+</a><br>
+<a href="https://github.com/alanliongar/CineNow">
+  <img src="https://img.shields.io/badge/-CineNow-lightblue?style=for-the-badge" height="35"/>
+</a><br>
+<a href="https://github.com/alanliongar/PokeDex">
+  <img src="https://img.shields.io/badge/-PokeDex-yellow?style=for-the-badge" height="35"/>
+</a><br>
+<a href="https://github.com/alanliongar/rickandmorty">
+  <img src="https://img.shields.io/badge/-RickAndMorty-purple?style=for-the-badge" height="35"/>
+</a><br>
 
 <br><br><br>
 <h2>Programming languages/technologies that I have any/some experience with</h2>
