@@ -154,7 +154,7 @@ Today I consider myself an android developer
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/alan-gomes-a847602b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3B9OsWB7vFTPSSB5lyKOZP4A%3D%3D">
+      <a href="www.linkedin.com/in/alan-gomes-g">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
       </a>
     </td>
