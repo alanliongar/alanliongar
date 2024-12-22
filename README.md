@@ -43,9 +43,9 @@ Today I consider myself an android developer
 </a><br>
 <a href="https://github.com/alanliongar/rickandmorty">
   <img src="https://img.shields.io/badge/-RickAndMorty-purple?style=for-the-badge" height="35"/>
-</a><br>
+</a>
 
-<br><br><br>
+<br>
 <h2>Programming languages/technologies that I have any/some experience with</h2>
 <table>
   <tr>
@@ -115,9 +115,7 @@ Today I consider myself an android developer
     </td>
   </tr>
 </table>
-
-<br><br>
-
+<br>
 <h2>Formal Education</h2>
 <a href="https://www5.usp.br/#english">
   <img align="center" src="https://github.com/user-attachments/assets/5356dd8d-9adc-4950-9c64-e0e435d363ba" height="35"/> 
@@ -134,7 +132,7 @@ Today I consider myself an android developer
 <a href="https://comunidadedevspace.com">
   <img align="center" src="https://github.com/user-attachments/assets/a03d4d29-994a-492c-9605-fb4c3dbe2986" height="35"/>
 </a>
-<br><br>
+<br>
 <h2>Contact</h2>
 <table>
   <tr>
