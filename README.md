@@ -11,39 +11,71 @@ Today I consider myself an android developer
  - Version Control: Git and GitHub for collaborative development and code versioning.
 
 <h2>📱 Projects</h2>
-<a href="https://github.com/alanliongar/BMI_Calculator">
-  <img src="https://img.shields.io/badge/-BMI%20Calculator-blueviolet?style=for-the-badge" height="35"/>
-</a><br>
-<a href="https://github.com/alanliongar/Fuel_Calculator">
-  <img src="https://img.shields.io/badge/-Fuel%20Calculator-green?style=for-the-badge" height="35"/>
-</a><br>
-<a href="https://github.com/alanliongar/Tip_Calculator">
-  <img src="https://img.shields.io/badge/-Tip%20Calculator-yellow?style=for-the-badge" height="35"/>
-</a><br>
-<a href="https://github.com/alanliongar/Calculator">
-  <img src="https://img.shields.io/badge/-Simple%20Calculator-orange?style=for-the-badge" height="35"/>
-</a><br>
-<a href="https://github.com/alanliongar/Recyclerview">
-  <img src="https://img.shields.io/badge/-Recyclerview-blue?style=for-the-badge" height="35"/>
-</a><br>
-<a href="https://github.com/alanliongar/ArtistList">
-  <img src="https://img.shields.io/badge/-ArtistList-yellow?style=for-the-badge" height="35"/>
-</a><br>
-<a href="https://github.com/alanliongar/TaskBeat">
-  <img src="https://img.shields.io/badge/-TaskBeat-red?style=for-the-badge" height="35"/>
-</a><br>
-<a href="https://github.com/alanliongar/FinTrack">
-  <img src="https://img.shields.io/badge/-FinTrack-green?style=for-the-badge" height="35"/>
-</a><br>
-<a href="https://github.com/alanliongar/CineNow">
-  <img src="https://img.shields.io/badge/-CineNow-lightblue?style=for-the-badge" height="35"/>
-</a><br>
-<a href="https://github.com/alanliongar/PokeDex">
-  <img src="https://img.shields.io/badge/-PokeDex-yellow?style=for-the-badge" height="35"/>
-</a><br>
-<a href="https://github.com/alanliongar/rickandmorty">
-  <img src="https://img.shields.io/badge/-RickAndMorty-purple?style=for-the-badge" height="35"/>
-</a>
+<table border="0.01" cellpadding="10" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <td>
+      <a href="https://github.com/alanliongar/BMI_Calculator">
+        <img src="https://img.shields.io/badge/-BMI%20Calculator-blueviolet?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alanliongar/Fuel_Calculator">
+        <img src="https://img.shields.io/badge/-Fuel%20Calculator-green?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alanliongar/Tip_Calculator">
+        <img src="https://img.shields.io/badge/-Tip%20Calculator-yellow?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alanliongar/Calculator">
+        <img src="https://img.shields.io/badge/-Simple%20Calculator-orange?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/alanliongar/Recyclerview">
+        <img src="https://img.shields.io/badge/-Recyclerview-blue?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alanliongar/ArtistList">
+        <img src="https://img.shields.io/badge/-ArtistList-yellow?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alanliongar/TaskBeat">
+        <img src="https://img.shields.io/badge/-TaskBeat-red?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alanliongar/FinTrack">
+        <img src="https://img.shields.io/badge/-FinTrack-green?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/alanliongar/CineNow">
+        <img src="https://img.shields.io/badge/-CineNow-lightblue?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alanliongar/PokeDex">
+        <img src="https://img.shields.io/badge/-PokeDex-yellow?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alanliongar/rickandmorty">
+        <img src="https://img.shields.io/badge/-RickAndMorty-purple?style=for-the-badge" height="35"/>
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 
 <br>
 <h2>Programming languages/technologies that I have any/some experience with</h2>
