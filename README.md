@@ -1,5 +1,5 @@
 ## Welcome! I'm Alan 👋<br>
-Today I consider myself an android developer
+Today I'm an android developer
 
 ## Core Skills 🚀
  - Programming languages: Kotlin (100% proficiency in modern Android development).
