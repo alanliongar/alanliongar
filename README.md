@@ -161,8 +161,8 @@ Today I'm an android developer
   <img align="center" src="https://github.com/user-attachments/assets/2f096702-db08-4390-8b77-32fc328a3639" height="35"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://comunidadedevspace.com">
-  <img align="center" src="https://www.linkedin.com/company/comunidadedevspace/" height="35"/>
+<a href="https://www.linkedin.com/company/comunidadedevspace/">
+  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/DevspaceLogo.png" height="35"/>
 </a>
 <br>
 <h2>Contact</h2>
