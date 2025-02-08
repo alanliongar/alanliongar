@@ -101,9 +101,9 @@ Today I'm an android developer
   </tr>
 </table><br>
 
-### 📌 My Fiverr Gig
+### 📌 Fiverr Gig
 💼 **Need an Android app? Hire me on Fiverr!**  
-[🔗 Check my Fiverr Gig](https://www.fiverr.com/alanliongar/)
+**[🔗 Check my Fiverr Gig](https://www.fiverr.com/alanliongar/)**
 <br>
 
 <h2>An interesting fact</h2>
