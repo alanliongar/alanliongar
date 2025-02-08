@@ -77,9 +77,9 @@ Today I'm an android developer
 </table>
 <br>
 
-# 🚀 My Android Projects
+# 📱🚀 My Android Projects
 ## 🔥 Featured Apps  
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
   <tr>
@@ -118,10 +118,14 @@ Today I'm an android developer
 
 ---
 
-## 📌 Other Projects  
-🔹 **[ArtistList](https://github.com/alanliongar/ArtistList)** - An app to browse and save favorite artists.<br>  
+### 📌 Other Projects - check out!
+🔹 **[ArtistList](https://github.com/alanliongar/ArtistList)** - An app to browse and save favorite artists.<br>
 🔹 **[Fuel Calculator](https://github.com/alanliongar/FuelCalculator)** - A tool to calculate fuel consumption.<br>  
-🔹 **[Tip Calculator](https://github.com/alanliongar/TipCalculator)** - A simple app to calculate restaurant tips.<br>  
+🔹 **[Calculator](https://github.com/alanliongar/Calculator)** - A simple calculator app.<br>  
+🔹 **[RecyclerView](https://github.com/alanliongar/Recyclerview)** - A simple app implementing RecyclerView.<br>  
+🔹 **[CineNow](https://github.com/alanliongar/CineNow)** - A simple app which shows you lists of movies.<br>  
+🔹 **[PokeDex](https://github.com/alanliongar/PokeDex)** - An app which shows you a pokemons list and detail them in a new screen.<br>  
+🔹 **[Rick and Morty App](https://github.com/alanliongar/rickandmorty)** - An app which shows you the rick and morty characters list and detail them in a new screen.<br>  
 
 <br>
 <h2>Formal Education</h2>
