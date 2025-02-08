@@ -99,12 +99,11 @@ Today I'm an android developer
       </a>
     </td>
   </tr>
-</table><br>
+</table>
 
 ### 📌 Fiverr Gig
 💼 **Need an Android app? Hire me on Fiverr!**  
 **[🔗 Check my Fiverr Gig](https://www.fiverr.com/alanliongar/)**
 <br>
-
 <h2>An interesting fact</h2>
 Almost all the badge items are clickable on this page hahaha
