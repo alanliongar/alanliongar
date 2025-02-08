@@ -76,6 +76,54 @@ Today I'm an android developer
   </tr>
 </table>
 <br>
+
+# 🚀 My Android Projects
+## 🔥 Featured Apps  
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alanliongar/FinTrack">
+        <img src="https://github.com/alanliongar/FinTrack/blob/main/Screenshots/Screenshot_20240909_130648.png" height="250"/>
+      </a>
+      <br>
+      <b>FinTrack</b>
+      <br>
+      📌 A finance management app with expense tracking, budget planning, and category-based insights.
+      <br>🔹 <b>Tech:</b> Kotlin, Jetpack Compose, Room Database, Firebase
+    </td>
+    <td align="center">
+      <a href="https://github.com/alanliongar/TaskBeat">
+        <img src="https://github.com/alanliongar/TaskBeat/blob/main/Taskbeat01.png" height="250"/>
+      </a>
+      <br>
+      <b>TaskBeat</b>
+      <br>
+      📌 A productivity app for tracking tasks and goals.
+      <br>🔹 <b>Tech:</b> Kotlin, MVVM, Jetpack Compose, Room DB
+    </td>
+    <td align="center">
+      <a href="https://github.com/alanliongar/BMI_Calculator">
+        <img src="https://github.com/alanliongar/BMI_Calculator/blob/master/Screenshot_01.png" height="250"/>
+      </a>
+      <br>
+      <b>BMI Calculator</b>
+      <br>
+      📌 A simple app to calculate Body Mass Index (BMI) with a clean UI.
+      <br>🔹 <b>Tech:</b> Kotlin, Jetpack Compose, UI/UX
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📌 Other Projects  
+🔹 **[ArtistList](https://github.com/alanliongar/ArtistList)** - An app to browse and save favorite artists.<br>  
+🔹 **[Fuel Calculator](https://github.com/alanliongar/FuelCalculator)** - A tool to calculate fuel consumption.<br>  
+🔹 **[Tip Calculator](https://github.com/alanliongar/TipCalculator)** - A simple app to calculate restaurant tips.<br>  
+
+<br>
 <h2>Formal Education</h2>
 <a href="https://www5.usp.br/#english">
   <img align="center" src="https://github.com/user-attachments/assets/5356dd8d-9adc-4950-9c64-e0e435d363ba" height="35"/> 
