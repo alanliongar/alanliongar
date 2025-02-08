@@ -10,71 +10,6 @@ Today I'm an android developer
  - UI/UX: Focused on modern design principles using Material Design, ConstraintLayout, and Jetpack Compose.
  - Version Control: Git and GitHub for collaborative development and code versioning.
 
-<h2>📱 Projects</h2>
-<table border="0.01" cellpadding="10" cellspacing="0" style="border-collapse: collapse; text-align: center;">
-  <tr>
-    <td>
-      <a href="https://github.com/alanliongar/BMI_Calculator">
-        <img src="https://img.shields.io/badge/-BMI%20Calculator-blueviolet?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alanliongar/Fuel_Calculator">
-        <img src="https://img.shields.io/badge/-Fuel%20Calculator-green?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alanliongar/Tip_Calculator">
-        <img src="https://img.shields.io/badge/-Tip%20Calculator-yellow?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alanliongar/Calculator">
-        <img src="https://img.shields.io/badge/-Simple%20Calculator-orange?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/alanliongar/Recyclerview">
-        <img src="https://img.shields.io/badge/-Recyclerview-blue?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alanliongar/ArtistList">
-        <img src="https://img.shields.io/badge/-ArtistList-yellow?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alanliongar/TaskBeat">
-        <img src="https://img.shields.io/badge/-TaskBeat-red?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alanliongar/FinTrack">
-        <img src="https://img.shields.io/badge/-FinTrack-green?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/alanliongar/CineNow">
-        <img src="https://img.shields.io/badge/-CineNow-lightblue?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alanliongar/PokeDex">
-        <img src="https://img.shields.io/badge/-PokeDex-yellow?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alanliongar/rickandmorty">
-        <img src="https://img.shields.io/badge/-RickAndMorty-purple?style=for-the-badge" height="35"/>
-      </a>
-    </td>
-    <td></td>
-  </tr>
-</table>
 <br>
 
 # 📱🚀 My Android Projects
@@ -120,12 +55,12 @@ Today I'm an android developer
 
 ### 📌 Other Projects - check out!
 🔹 **[ArtistList](https://github.com/alanliongar/ArtistList)** - An app to browse and save favorite artists.<br>
-🔹 **[Fuel Calculator](https://github.com/alanliongar/FuelCalculator)** - A tool to calculate fuel consumption.<br>  
-🔹 **[Calculator](https://github.com/alanliongar/Calculator)** - A simple calculator app.<br>  
-🔹 **[RecyclerView](https://github.com/alanliongar/Recyclerview)** - A simple app implementing RecyclerView.<br>  
-🔹 **[CineNow](https://github.com/alanliongar/CineNow)** - A simple app which shows you lists of movies.<br>  
-🔹 **[PokeDex](https://github.com/alanliongar/PokeDex)** - An app which shows you a pokemons list and detail them in a new screen.<br>  
-🔹 **[Rick and Morty App](https://github.com/alanliongar/rickandmorty)** - An app which shows you the rick and morty characters list and detail them in a new screen.<br>  
+🔹 **[Fuel Calculator](https://github.com/alanliongar/FuelCalculator)** - A tool to calculate fuel consumption.<br>
+🔹 **[Calculator](https://github.com/alanliongar/Calculator)** - A simple calculator app.<br>
+🔹 **[RecyclerView](https://github.com/alanliongar/Recyclerview)** - A simple app implementing RecyclerView.<br>
+🔹 **[CineNow](https://github.com/alanliongar/CineNow)** - A simple app which shows you lists of movies.<br>
+🔹 **[PokeDex](https://github.com/alanliongar/PokeDex)** - An app which shows you a pokemons list and detail them in a new screen.<br>
+🔹 **[Rick and Morty App](https://github.com/alanliongar/rickandmorty)** - An app which shows you the rick and morty characters list and detail them in a new screen.<br>
 
 <br>
 <h2>Formal Education</h2>
