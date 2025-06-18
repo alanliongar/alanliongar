@@ -55,7 +55,7 @@ Today I'm an android developer
 
 ### 📌 Other Projects - check out!
 🔹 **[ArtistList](https://github.com/alanliongar/ArtistList)** - An app to browse and save favorite artists.<br>
-🔹 **[Fuel Calculator](https://github.com/alanliongar/FuelCalculator)** - A tool to calculate fuel consumption.<br>
+🔹 **[Fuel Calculator](https://github.com/alanliongar/Fuel_Calculator)** - A tool to calculate fuel consumption.<br>
 🔹 **[Calculator](https://github.com/alanliongar/Calculator)** - A simple calculator app.<br>
 🔹 **[RecyclerView](https://github.com/alanliongar/Recyclerview)** - A simple app implementing RecyclerView.<br>
 🔹 **[CineNow](https://github.com/alanliongar/CineNow)** - A simple app which shows you lists of movies.<br>
