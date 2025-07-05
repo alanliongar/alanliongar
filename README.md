@@ -65,19 +65,19 @@ Today I'm an android developer
 <br>
 <h2>Formal Education</h2>
 <a href="https://www5.usp.br/#english">
-  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/USP.png" height="35"/> 
+  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/USP.png" style="height:35px; vertical-align:middle;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.ime.usp.br/en/institute/">
-  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/ImeUSP.png" height="35"/>
+  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/ImeUSP.png" style="height:35px; vertical-align:middle;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.fea.usp.br/en">
-  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/FeaUSP.png" height="35"/>
+  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/FeaUSP.png" style="height:35px; vertical-align:middle;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/company/comunidadedevspace/">
-  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/DevspaceLogo.png" height="35"/>
+  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/DevspaceLogo.png" style="height:35px; vertical-align:middle;"/>
 </a>
 <br>
 <h2>Contact</h2>
