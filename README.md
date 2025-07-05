@@ -20,7 +20,7 @@ Today I'm an android developer
   <tr>
     <td align="center">
       <a href="https://github.com/alanliongar/FinTrack">
-        <img src="https://github.com/alanliongar/FinTrack/blob/main/Screenshots/Screenshot_20240909_130648.png" height="250"/>
+        <img src="https://github.com/alanliongar/FinTrack/blob/main/Screenshots/Screenshot_20240909_130648.png" style="height:250px; vertical-align:middle;"/>
       </a>
       <br>
       <b>FinTrack</b>
@@ -30,7 +30,7 @@ Today I'm an android developer
     </td>
     <td align="center">
       <a href="https://github.com/alanliongar/TaskBeat">
-        <img src="https://github.com/alanliongar/TaskBeat/blob/main/Taskbeat01.png" height="250"/>
+        <img src="https://github.com/alanliongar/TaskBeat/blob/main/Taskbeat01.png" style="height:250px; vertical-align:middle;"/>
       </a>
       <br>
       <b>TaskBeat</b>
@@ -40,7 +40,7 @@ Today I'm an android developer
     </td>
     <td align="center">
       <a href="https://github.com/alanliongar/BMI_Calculator">
-        <img src="https://github.com/alanliongar/BMI_Calculator/blob/master/Screenshot_01.png" height="250"/>
+        <img src="https://github.com/alanliongar/BMI_Calculator/blob/master/Screenshot_01.png" style="height:250px; vertical-align:middle;"/>
       </a>
       <br>
       <b>BMI Calculator</b>
@@ -85,17 +85,17 @@ Today I'm an android developer
   <tr>
     <td align="center">
       <a href="https://discord.com/users/gar233/">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="height:35px; vertical-align:middle;"/>
       </a>
     </td>
     <td align="center">
       <a href="mailto:alan.lucindo.gomes@alumni.usp.br">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:35px; vertical-align:middle;"/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/alan-gomes-g">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height:35px; vertical-align:middle;"/>
       </a>
     </td>
   </tr>
