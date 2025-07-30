@@ -61,6 +61,7 @@ Today I'm an android developer
 🔹 **[CineNow](https://github.com/alanliongar/CineNow)** - A simple app which shows you lists of movies.<br>
 🔹 **[PokeDex](https://github.com/alanliongar/PokeDex)** - An app which shows you a pokemons list and detail them in a new screen.<br>
 🔹 **[Rick and Morty App](https://github.com/alanliongar/rickandmorty)** - An app which shows you the rick and morty characters list and detail them in a new screen.<br>
+🔹 **[Weather](https://github.com/alanliongar/weather)** - An app which shows you the current weather features (like temperature, wind speed and more!).<br>
 
 <br>
 <h2>Formal Education</h2>
