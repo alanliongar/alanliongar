@@ -54,6 +54,7 @@ Today I'm an android developer
 ---
 
 ### 📌 Other Projects - check out!
+🔹 **[Tip Calculator](https://github.com/alanliongar/Tip_Calculator)** - An which helps you to calculate how much each will pay and tips.<br>
 🔹 **[ArtistList](https://github.com/alanliongar/ArtistList)** - An app to browse and save favorite artists.<br>
 🔹 **[Fuel Calculator](https://github.com/alanliongar/Fuel_Calculator)** - A tool to calculate fuel consumption.<br>
 🔹 **[Calculator](https://github.com/alanliongar/Calculator)** - A simple calculator app.<br>
