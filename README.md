@@ -64,7 +64,7 @@ Today I'm an android developer!
 🔹 **[PokeDex (AI Powered)](https://github.com/alanliongar/PokeDex_Hacksprint_2025)** - Same as above, but this one generates funny battles in text.<br>
 🔹 **[Rick and Morty App](https://github.com/alanliongar/rickandmorty)** - An app which shows you the rick and morty characters list and detail them in a new screen.<br>
 🔹 **[Weather](https://github.com/alanliongar/weather)** - An app which shows you the current weather features (like temperature, wind speed and more!).<br>
-🔹 **[Learn everything](https://github.com/alanliongar/LearnEverythingBot)** - An app which helps you to create your study plan in topics, and quiz to test your knowledge!).<br>
+🔹 **[Learn everything (AI Powered)](https://github.com/alanliongar/LearnEverythingBot)** - An app which helps you to create your study plan in topics, and quiz to test your knowledge!).<br>
 
 <br>
 <h2>Formal Education</h2>
