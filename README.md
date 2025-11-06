@@ -2,13 +2,13 @@
 Today I'm an android developer!
 
 ## Core Skills 🚀
- - Programming languages: Kotlin (100% proficiency in modern Android development).
- - Native Android Development: Activities, Fragments, XML layouts, and Jetpack components (Compose, Navigation, RecyclerView).
- - API Integration: Proficient in handling REST APIs using Retrofit, JSON parsing, and network management.
- - Local Databases: Skilled in Room and SQLite for efficient local storage and data handling.
- - State Management: Experience with ViewModel, LiveData, and StateFlow for reactive and maintainable state management.
- - UI/UX: Focused on modern design principles using Material Design, ConstraintLayout, and Jetpack Compose.
- - Version Control: Git and GitHub for collaborative development and code versioning.
+ - Programming languages: Kotlin (100% proficiency in modern Android development)
+ - Native Android Development: Activities, Fragments, XML layouts, and Jetpack components (Compose, Navigation, RecyclerView)
+ - API Integration: Proficient in handling REST APIs using Retrofit, JSON parsing, and network management
+ - Local Databases: Skilled in Room and SQLite for efficient local storage and data handling
+ - State Management: Experience with ViewModel, LiveData, and StateFlow for reactive and maintainable state management
+ - UI/UX: Focused on modern design principles using Material Design, ConstraintLayout, and Jetpack Compose
+ - Version Control: Git and GitHub for collaborative development and code versioning
 
 <br>
 
