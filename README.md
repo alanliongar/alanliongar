@@ -1,5 +1,5 @@
 ## Welcome! I'm Alan 👋<br>
-Today I'm an android developer!
+Android developer/Logistics Analyst!
 
 ## Core Skills 🚀
  - Programming languages: Kotlin (100% proficiency in modern Android development).
