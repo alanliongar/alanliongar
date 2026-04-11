@@ -46,7 +46,7 @@ Android developer/Logistics analyst!
       <b>PokeDex (AI Powered)</b>
       <br>
       📌 An app to explore pokemons with beautiful design and a plus: battle in text generated through AI.
-      <br>🔹 <b>Tech:</b> Kotlin, Jetpack Compose, UI/UX
+      <br>🔹 <b>Tech:</b> Kotlin, Jetpack Compose, UI/UX, Team coding
     </td>
   </tr>
 </table>
@@ -54,6 +54,7 @@ Android developer/Logistics analyst!
 ---
 
 ### 📌 Other Projects - check out!
+🔹 **[PokeDex SOLO (AI Powered!)](https://github.com/alanliongar/PokeDex)** - An app which shows you a pokemons list and detail them in a new screen, and also a battle in text.<br>
 🔹 **[FinTrack](https://github.com/alanliongar/FinTrack)** - A finance management app with expense tracking, budget planning, and category-based insights.<br>
 🔹 **[TaskBeat](https://github.com/alanliongar/TaskBeat)** - A productivity app for tracking tasks and goals.<br>
 🔹 **[BMI Calculator](https://github.com/alanliongar/BMI_Calculator)** - A simple app to calculate Body Mass Index (BMI) with a clean UI.<br>
@@ -62,9 +63,6 @@ Android developer/Logistics analyst!
 🔹 **[Fuel Calculator](https://github.com/alanliongar/Fuel_Calculator)** - A tool to calculate fuel consumption.<br>
 🔹 **[Calculator](https://github.com/alanliongar/Calculator)** - A simple calculator app.<br>
 🔹 **[RecyclerView](https://github.com/alanliongar/Recyclerview)** - A simple app implementing RecyclerView.<br>
-🔹 **[CineNow](https://github.com/alanliongar/CineNow)** - A simple app which shows you lists of movies.<br>
-🔹 **[PokeDex](https://github.com/alanliongar/PokeDex)** - An app which shows you a pokemons list and detail them in a new screen.<br>
-🔹 **[PokeDex (AI Powered)](https://github.com/alanliongar/PokeDex_Hacksprint_2025)** - Same as above, but this one generates funny battles in text.<br>
 🔹 **[Rick and Morty App](https://github.com/alanliongar/rickandmorty)** - An app which shows you the rick and morty characters list and detail them in a new screen.<br>
 🔹 **[Bitcoin Price App](https://github.com/alanliongar/BitcoinPrice)** - An app which shows you the price of bitcoin on a given date filter.<br>
 🔹 **[Weather](https://github.com/alanliongar/weather)** - An app which shows you the current weather features (like temperature, wind speed and more!).<br>
