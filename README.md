@@ -29,23 +29,23 @@ Android developer/Logistics analyst!
       <br>🔹 <b>Tech:</b> Kotlin, Jetpack Compose, Room Database, Firebase
     </td>
     <td align="center">
-      <a href="https://github.com/alanliongar/TaskBeat">
-        <img src="https://github.com/alanliongar/TaskBeat/blob/main/Taskbeat01.png" style="height:250px; vertical-align:middle;"/>
+      <a href="https://github.com/alanliongar/CineNow">
+        <img src="https://github.com/alanliongar/CineNow/blob/master/Screenshot_20241212_200513.png" style="height:250px; vertical-align:middle;"/>
       </a>
       <br>
-      <b>TaskBeat</b>
+      <b>CineNow</b>
       <br>
-      📌 A productivity app for tracking tasks and goals.
+      📌 An app which shows you 4 categories of movies.
       <br>🔹 <b>Tech:</b> Kotlin, MVVM, Jetpack Compose, Room DB
     </td>
     <td align="center">
-      <a href="https://github.com/alanliongar/BMI_Calculator">
-        <img src="https://github.com/alanliongar/BMI_Calculator/blob/master/Screenshot_01.png" style="height:250px; vertical-align:middle;"/>
+      <a href="https://github.com/alanliongar/PokeDex_Hacksprint_2025">
+        <img src="https://github.com/alanliongar/PokeDex_Hacksprint_2025/blob/master/screenshots/Darkmode.png" style="height:250px; vertical-align:middle;"/>
       </a>
       <br>
-      <b>BMI Calculator</b>
+      <b>PokeDex (AI Powered)</b>
       <br>
-      📌 A simple app to calculate Body Mass Index (BMI) with a clean UI.
+      📌 An app to explore pokemons with beautiful design and a plus: battle in text generated through AI.
       <br>🔹 <b>Tech:</b> Kotlin, Jetpack Compose, UI/UX
     </td>
   </tr>
