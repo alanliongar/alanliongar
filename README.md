@@ -1,115 +1,182 @@
-## Welcome! I'm Alan 👋<br>
-Android developer
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Alan Gomes — Android, Automation, Data and Operations" />
+</p>
 
-## Core Skills 🚀
- - Programming languages: Kotlin (100% proficiency in modern Android development).
- - Native Android Development: Activities, Fragments, XML layouts, and Jetpack components (Compose, Navigation, RecyclerView).
- - API Integration: Proficient in handling REST APIs using Retrofit, JSON parsing, and network management.
- - Local Databases: Skilled in Room and SQLite for efficient local storage and data handling.
- - State Management: Experience with ViewModel, LiveData, and StateFlow for reactive and maintainable state management.
- - UI/UX: Focused on modern design principles using Material Design, ConstraintLayout, and Jetpack Compose.
- - Version Control: Git and GitHub for collaborative development and code versioning.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alan-android/">
+    <img src="https://img.shields.io/badge/LinkedIn-Technology-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Technology" />
+  </a>
+  <a href="https://www.linkedin.com/in/alan-gomes-b197771b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Business_%26_Operations-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Business and Operations" />
+  </a>
+  <a href="mailto:alan.lucindo.gomes@alumni.usp.br">
+    <img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<br>
+<h3 align="center">I turn ambiguous problems into software, workflows, and measurable systems.</h3>
 
-# 📱🚀 My Android Projects
-## 🔥 Featured Apps  
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/alanliongar/FinTrack">
-        <img src="https://github.com/alanliongar/FinTrack/blob/main/Screenshots/Screenshot_20240909_130648.png" style="height:250px; vertical-align:middle;"/>
-      </a>
-      <br>
-      <b>FinTrack</b>
-      <br>
-      📌 A finance management app with expense tracking, budget planning, and category-based insights.
-      <br>🔹 <b>Tech:</b> Kotlin, Jetpack Compose, Room Database, Firebase
-    </td>
-    <td align="center">
-      <a href="https://github.com/alanliongar/CineNow">
-        <img src="https://github.com/alanliongar/CineNow/blob/master/Screenshot_20241212_200513.png" style="height:250px; vertical-align:middle;"/>
-      </a>
-      <br>
-      <b>CineNow</b>
-      <br>
-      📌 An app which shows you 4 categories of movies.
-      <br>🔹 <b>Tech:</b> Kotlin, MVVM, Jetpack Compose, Room DB
-    </td>
-    <td align="center">
-      <a href="https://github.com/alanliongar/PokeDex_Hacksprint_2025">
-        <img src="https://github.com/alanliongar/PokeDex_Hacksprint_2025/blob/master/screenshots/Darkmode.png" style="height:250px; vertical-align:middle;"/>
-      </a>
-      <br>
-      <b>PokeDex (AI Powered)</b>
-      <br>
-      📌 An app to explore pokemons with beautiful design and a plus: battle in text generated through AI.
-      <br>🔹 <b>Tech:</b> Kotlin, Jetpack Compose, UI/UX, Team coding
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Android developer • automation-minded builder • business-trained problem solver • São Paulo, Brazil
+</p>
 
 ---
 
-### 📌 Other Projects - check out!
-🔹 **[PokeDex SOLO (AI Powered!)](https://github.com/alanliongar/PokeDex)** - An app which shows you a pokemons list and detail them in a new screen, and also a battle in text.<br>
-🔹 **[FinTrack](https://github.com/alanliongar/FinTrack)** - A finance management app with expense tracking, budget planning, and category-based insights.<br>
-🔹 **[TaskBeat](https://github.com/alanliongar/TaskBeat)** - A productivity app for tracking tasks and goals.<br>
-🔹 **[BMI Calculator](https://github.com/alanliongar/BMI_Calculator)** - A simple app to calculate Body Mass Index (BMI) with a clean UI.<br>
-🔹 **[Tip Calculator](https://github.com/alanliongar/Tip_Calculator)** - An which helps you to calculate how much each will pay and tips.<br>
-🔹 **[ArtistList](https://github.com/alanliongar/ArtistList)** - An app to browse and save favorite artists.<br>
-🔹 **[Fuel Calculator](https://github.com/alanliongar/Fuel_Calculator)** - A tool to calculate fuel consumption.<br>
-🔹 **[Calculator](https://github.com/alanliongar/Calculator)** - A simple calculator app.<br>
-🔹 **[RecyclerView](https://github.com/alanliongar/Recyclerview)** - A simple app implementing RecyclerView.<br>
-🔹 **[Rick and Morty App](https://github.com/alanliongar/rickandmorty)** - An app which shows you the rick and morty characters list and detail them in a new screen.<br>
-🔹 **[Bitcoin Price App](https://github.com/alanliongar/BitcoinPrice)** - An app which shows you the price of bitcoin on a given date filter.<br>
-🔹 **[Weather](https://github.com/alanliongar/weather)** - An app which shows you the current weather features (like temperature, wind speed and more!).<br>
-🔹 **[Learn everything (AI Powered)](https://github.com/alanliongar/LearnEverythingBot)** - An app which helps you to create your study plan in topics, and quiz to test your knowledge!).<br>
+## The part that doesn't fit in a tech-stack badge
 
-<br>
-<h2>Formal Education</h2>
-<a href="https://www5.usp.br/#english">
-  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/USP.png" style="height:35px; vertical-align:middle;"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.ime.usp.br/en/institute/">
-  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/ImeUSP.png" style="height:35px; vertical-align:middle;"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.fea.usp.br/en">
-  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/FeaUSP.png" style="height:35px; vertical-align:middle;"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/company/comunidadedevspace/">
-  <img align="center" src="https://github.com/alanliongar/alanliongar/blob/main/DevspaceLogo.png" style="height:35px; vertical-align:middle;"/>
-</a>
-<br>
-<h2>Contact</h2>
+Most developers introduce themselves with a list of technologies. I prefer starting **one layer earlier**.
+
+I like understanding how a system works, where it leaks time, which data actually matters, what should remain human, and what deserves to become software. My background mixes **Business Administration at FEA-USP**, **operations/logistics experience at RD Saúde**, and hands-on **Android/software development**.
+
+That combination changed the way I build things: code is not the goal. **A better system is.**
+
+```text
+real-world problem
+      │
+      ├── people & process
+      ├── data & constraints
+      └── product / automation
+                  │
+                  ▼
+       build → measure → automate → iterate
+                  │
+                  ▼
+        something boringly reliable
+```
+
+## My unusual combination
+
 <table>
   <tr>
-    <td align="center">
-      <a href="https://discord.com/users/gar233/">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="height:35px; vertical-align:middle;"/>
-      </a>
+    <td width="33%" valign="top">
+      <h3>📱 Product Engineer</h3>
+      Native Android with <b>Kotlin</b>, Jetpack Compose, classic Views, REST APIs, local persistence and modern app architecture.
+      <br><br>
+      I care about the whole path from UI state to data flow — not just making the screen compile.
     </td>
-    <td align="center">
-      <a href="mailto:alan.lucindo.gomes@alumni.usp.br">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:35px; vertical-align:middle;"/>
-      </a>
+    <td width="33%" valign="top">
+      <h3>⚙️ Automation Builder</h3>
+      <b>Python, SQL, APIs, scripts, data analysis and workflow automation.</b>
+      <br><br>
+      Repetitive work makes me suspicious. If a process repeats enough times, I start looking for the script hiding inside it.
     </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/alan-gomes-g">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height:35px; vertical-align:middle;"/>
-      </a>
+    <td width="33%" valign="top">
+      <h3>🧠 Business Operator</h3>
+      Process thinking, metrics, operations, prioritization and decision-making shaped by a Business Administration background at <b>FEA-USP</b> and real operational experience.
+      <br><br>
+      I naturally ask: <i>what problem are we actually solving?</i>
     </td>
   </tr>
 </table>
 
-### 📌 Fiverr Gig
-💼 **Need an Android app? Hire me on Fiverr!**  
-**[🔗 Check my Fiverr Gig](https://www.fiverr.com/alanliongar/)**
-<br>
-<h2>An interesting fact</h2>
-Almost all the badge items are clickable on this page hahaha
+## Selected builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/alanliongar/PokeDex">
+        <img src="https://github.com/user-attachments/assets/bf9fb4ae-d6c5-4261-a29f-5995ccf0a3b0" width="210" alt="PokeDex app" />
+      </a>
+      <h3>⚡ <a href="https://github.com/alanliongar/PokeDex">PokéDex — AI Powered</a></h3>
+      Pokémon exploration app powered by PokéAPI, with modern Compose UI, dynamic visual treatment and AI-generated text battles.
+      <br><br>
+      <code>Kotlin</code> <code>Compose</code> <code>Retrofit</code> <code>Hilt</code> <code>OpenAI API</code>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/alanliongar/LearnEverythingBot">
+        <img src="https://github.com/alanliongar/LearnEverythingBot/blob/main/screenshots/Darkmode.png" width="210" alt="Learn Everything Bot" />
+      </a>
+      <h3>🧠 <a href="https://github.com/alanliongar/LearnEverythingBot">Learn Everything Bot</a></h3>
+      Turns a subject into a clickable study structure with AI summaries, persisted questions and quiz-based learning.
+      <br><br>
+      <code>Kotlin</code> <code>Compose</code> <code>StateFlow</code> <code>Hilt</code> <code>OpenAI API</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/alanliongar/FinTrack">
+        <img src="https://github.com/alanliongar/FinTrack/blob/main/Screenshots/Screenshot_20240909_130648.png" width="210" alt="FinTrack app" />
+      </a>
+      <h3>💰 <a href="https://github.com/alanliongar/FinTrack">FinTrack</a></h3>
+      Native finance tracker for income, expenses and balances, built around local persistence and practical day-to-day use.
+      <br><br>
+      <code>Kotlin</code> <code>Room</code> <code>RecyclerView</code> <code>Android Views</code>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/alanliongar/CineNow">
+        <img src="https://github.com/alanliongar/CineNow/blob/master/Screenshot_20241212_200513.png" width="210" alt="CineNow app" />
+      </a>
+      <h3>🎬 <a href="https://github.com/alanliongar/CineNow">CineNow</a></h3>
+      Movie discovery app backed by TMDB, with movie details, Compose UI and a structured MVVM / Repository architecture.
+      <br><br>
+      <code>Kotlin</code> <code>Compose</code> <code>MVVM</code> <code>Retrofit</code> <code>Hilt</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/alanliongar/TaskBeat">TaskBeat</a> •
+  <a href="https://github.com/alanliongar/Weather">Weather</a> •
+  <a href="https://github.com/alanliongar/RickAndMorty">Rick & Morty</a> •
+  <a href="https://github.com/alanliongar/BitcoinPrice">Bitcoin Price</a> •
+  <a href="https://github.com/alanliongar/ArtistList">ArtistList</a>
+</p>
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+**Android:** Kotlin · Jetpack Compose · XML / Views · MVVM · Clean Architecture · Repository Pattern · Retrofit · OkHttp · Room · Dagger/Hilt · Coroutines / Flow · REST / JSON · Unit Testing
+
+**Beyond mobile:** Python · SQL · VBA · automation · data analysis · API integration · AI-assisted workflows · self-hosted systems
+
+## Background
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.fea.usp.br/en">
+        <img src="./FeaUSP.png" width="115" alt="FEA-USP" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b>Bachelor's Degree in Business Administration — FEA-USP, University of São Paulo</b><br>
+      A business foundation that still shows up in how I reason about products, processes, incentives, metrics and trade-offs.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>RD Saúde</b></td>
+    <td valign="middle">
+      <b>Operations / Logistics experience</b><br>
+      Real-world exposure to processes, execution, data and operational constraints before software became my main craft.
+    </td>
+  </tr>
+</table>
+
+## The rules I build by
+
+> **Useful > impressive.**  
+> **Evidence > assumptions.**  
+> **Automate repetition, not judgment.**  
+> **Complexity has to pay rent.**  
+> **Ship something observable, then learn from reality.**
+
+---
+
+<p align="center">
+  <b>Two professional lenses. One brain.</b><br>
+  <a href="https://www.linkedin.com/in/alan-android/">Technology / Android</a> ·
+  <a href="https://www.linkedin.com/in/alan-gomes-b197771b5/">Business / Operations</a> ·
+  <a href="mailto:alan.lucindo.gomes@alumni.usp.br">Email</a>
+</p>
+
+<p align="center"><sub>Side effect of working with me: spreadsheets have a tendency to become scripts, and scripts have a tendency to become systems.</sub></p>
