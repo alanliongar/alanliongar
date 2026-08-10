@@ -30,7 +30,7 @@
     <text x="58" y="132" fill="#f0f6fc" font-size="60" font-weight="700" letter-spacing="1">ALAN GOMES</text>
     <rect x="58" y="154" width="640" height="4" rx="2" fill="url(#accent)"/>
     <text x="58" y="202" fill="#c9d1d9" font-size="24">ANDROID • AUTOMATION • DATA • OPERATIONS</text>
-    <text x="58" y="246" fill="#8b949e" font-size="18">business-trained engineer / systems-minded builder</text>
+    <text x="58" y="246" fill="#8b949e" font-size="18">business-trained developer / systems-minded builder</text>
 
     <g transform="translate(58 276)">
       <rect x="0" y="0" width="118" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
