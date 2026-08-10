@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Alan Gomes — Android, Automation, Data and Operations</title>
+  <desc id="desc">A dark technical profile banner with Alan Gomes' name, areas of work and build-measure-automate-iterate loop.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.52" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#30363d" stroke-width="1" opacity="0.35"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <rect x="0" y="0" width="8" height="340" rx="4" fill="url(#accent)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+    <text x="58" y="58" fill="#8b949e" font-size="18">alan@github:~$ whoami</text>
+    <text x="58" y="132" fill="#f0f6fc" font-size="60" font-weight="700" letter-spacing="1">ALAN GOMES</text>
+    <rect x="58" y="154" width="640" height="4" rx="2" fill="url(#accent)"/>
+    <text x="58" y="202" fill="#c9d1d9" font-size="24">ANDROID • AUTOMATION • DATA • OPERATIONS</text>
+    <text x="58" y="246" fill="#8b949e" font-size="18">business-trained engineer / systems-minded builder</text>
+
+    <g transform="translate(58 276)">
+      <rect x="0" y="0" width="118" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+      <text x="59" y="22" text-anchor="middle" fill="#58a6ff" font-size="14">KOTLIN</text>
+      <rect x="130" y="0" width="118" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+      <text x="189" y="22" text-anchor="middle" fill="#a371f7" font-size="14">PYTHON</text>
+      <rect x="260" y="0" width="118" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+      <text x="319" y="22" text-anchor="middle" fill="#3fb950" font-size="14">SYSTEMS</text>
+    </g>
+
+    <g transform="translate(790 72)">
+      <text x="0" y="0" fill="#8b949e" font-size="15">OPERATING LOOP</text>
+      <line x1="38" y1="42" x2="38" y2="196" stroke="#30363d" stroke-width="3"/>
+      <circle cx="38" cy="48" r="8" fill="#58a6ff" filter="url(#glow)"/>
+      <circle cx="38" cy="98" r="8" fill="#a371f7"/>
+      <circle cx="38" cy="148" r="8" fill="#f2cc60"/>
+      <circle cx="38" cy="198" r="8" fill="#3fb950" filter="url(#glow)"/>
+      <text x="68" y="54" fill="#f0f6fc" font-size="20">BUILD</text>
+      <text x="68" y="104" fill="#f0f6fc" font-size="20">MEASURE</text>
+      <text x="68" y="154" fill="#f0f6fc" font-size="20">AUTOMATE</text>
+      <text x="68" y="204" fill="#f0f6fc" font-size="20">ITERATE</text>
+      <text x="0" y="250" fill="#8b949e" font-size="14">turn messy problems into boringly</text>
+      <text x="0" y="272" fill="#8b949e" font-size="14">reliable systems.</text>
+    </g>
+  </g>
+</svg>
